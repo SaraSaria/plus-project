@@ -1,0 +1,28 @@
+body {
+  font-family: "Alegreya Sans", sans-serif;
+}
+
+h2 {
+  font-size: 20px;
+}
+h3 {
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 28px;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+.weather-app {
+  border: 1px solid #dadde1;
+  padding: 15px;
+  margin: 20px;
+  max-width: 600px;
+  border-radius: 10px;
+}
